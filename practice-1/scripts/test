@@ -3,7 +3,7 @@
 set -e
 
 while ! nc -z -w 1 -u localhost 2000; do sleep 1; done
-sleep 1;
+while ! echo 'get_result avro' | nc -u localhost 2000 -w 3; do sleep 1; done
 echo 'get_result avro' | nc -u localhost 2000 -w 3
 echo 'get_result json' | nc -u localhost 2000 -w 3
 echo 'get_result msgpack' | nc -u localhost 2000 -w 3
