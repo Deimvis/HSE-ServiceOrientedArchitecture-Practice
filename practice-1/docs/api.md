@@ -1,4 +1,4 @@
-# Documentation for UDP Server API
+# UDP Server API
 
 This API provides two methods: `get_result` and `help`.
 

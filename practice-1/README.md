@@ -14,7 +14,7 @@
 
 # Note
 Directory `src/serialization` is written as python package.
-So you can install it on your own computer and write your own servers and tests like it's done in `bin`.
+So you can install it on your own computer and write your own servers and tests like it's made in `bin`.
 To install `serialization` package all you need is to write following command:
 ```bash
 cd src
