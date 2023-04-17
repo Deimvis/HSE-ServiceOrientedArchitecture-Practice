@@ -1,4 +1,0 @@
-avro
-msgpack
-protobuf
-xml-marshaller
