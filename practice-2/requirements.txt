@@ -1,0 +1,5 @@
+PyInquirer~=1.0.3
+grpcio-tools~=1.54.0
+pydantic~=1.10.7
+rich~=13.3.5
+wrapt~=1.15.0
