@@ -25,4 +25,4 @@ Run a client
 # Documentation
 * [Server](docs/server.md)
 * [Client](docs/client.md)
-* [Client Interface](docs/cliet_interface.md)
+* [Client Interface](docs/client_interface.md)
