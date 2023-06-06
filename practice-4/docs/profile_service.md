@@ -4,7 +4,7 @@
 
 Will be launched together with the server, but can be manually launched with
 ```bash
-docker-compose run --rm profile_service
+docker-compose run --rm -p 8000:8000 profile_service
 ```
 
 ## API
